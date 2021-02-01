@@ -1,0 +1,1 @@
+pm.environment.set("xsrf-token", decodeURIComponent(JSON.parse(pm.cookies.get("ccsrftoken"))));
