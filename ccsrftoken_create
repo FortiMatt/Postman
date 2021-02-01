@@ -1,1 +1,3 @@
 pm.environment.set("xsrf-token", decodeURIComponent(JSON.parse(pm.cookies.get("ccsrftoken"))));
+
+https://community.postman.com/t/removing-quotes-from-a-string/5590
