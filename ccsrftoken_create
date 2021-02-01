@@ -1,3 +1,4 @@
 pm.environment.set("xsrf-token", decodeURIComponent(JSON.parse(pm.cookies.get("ccsrftoken"))));
 
+https://medium.com/hackernoon/automatically-set-csrf-token-in-postman-django-tips-c9ec8eb9eb5b
 https://community.postman.com/t/removing-quotes-from-a-string/5590
